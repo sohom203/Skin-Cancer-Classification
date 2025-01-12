@@ -16,13 +16,13 @@ This is the official implementation  of "A Wavelet Guided Attention Module for S
 
 Saved model: https://drive.google.com/drive/folders/1t7PEjDuakjjJIYgG5ziB4yDjE81Dac8r?usp=drive_link
 
-## Authors :nerd_face:*
+## Authors :*
 Ayush Roy<br/>
 Sujan Sarkar, Ram Sarkar<br/>
 Soham Ghosal<br/>
 Dmitrii Kaplun, Asya Lyanova<br/>
 
-## Citation :thinking:*
+## Citation :*
 Please do cite our paper in case you find it useful for your research.<br/>
 ```
 
